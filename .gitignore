@@ -32,6 +32,6 @@
 *.app
 
 # Folders
-./src/FVCOM_LAKE/x64/Debug/
-./src/FVCOM_LAKE/x64/Release/
-./testcase/
+/src/FVCOM_LAKE/x64/Debug/
+/src/FVCOM_LAKE/x64/Release/
+/testcase/
