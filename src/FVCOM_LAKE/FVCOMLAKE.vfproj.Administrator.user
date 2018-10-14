@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<VisualStudioUserFile ProjectCreator="Intel Fortran" Keyword="Console Application" Version="11.0" ProjectIdGuid="{539349EF-229B-4D41-BE23-BD0CB1555515}">
-	<Configurations>
-		<Configuration Name="Debug|Win32" CommandArguments=".\Yangchunhu.xml"/>
-		<Configuration Name="Release|Win32"/>
-		<Configuration Name="Debug|x64" WorkingDirectory="F:\Models\FVM\Pearl River Estuary\PRE"/>
-		<Configuration Name="Release|x64" WorkingDirectory="H:\SMS"/></Configurations></VisualStudioUserFile>
