@@ -8,16 +8,10 @@ Lake Modeling System(LMS) is an integrated graphic modeling system designed for 
 
 ### Prerequisites
 * [NET Framework 4.5](https://www.microsoft.com/net/download/thank-you/net452)
-
-### Install
-Download the VHF [setup file](https://github.com/DeepHydro/VHF/releases) and install it on your PC.
-
-## Tutorial
-   A step-by-step [tutorial](https://github.com/DeepHydro/Visual-HEIFLOW/blob/master/tutorial/Tutorial.pdf) for modeling the Miho catchment located in Korea is provided. All necessary data used for the modeling accompany the tutorial document. 
    
 ## Major Libraries
   Several third-party libraries are used when developing LMS:
-* The hydrodynamic and  water quality model is based on [FVCOMT](http://fvcom.smast.umassd.edu/)
+* The hydrodynamic and  water quality model is based on [FVCOM](http://fvcom.smast.umassd.edu/)
 * The GIS environment is based on [DotSpatial](https://github.com/DotSpatial)
 
 ## Acknowledgements
