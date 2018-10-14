@@ -31,6 +31,10 @@
 *.out
 *.app
 
+# Solution files
+*.suo
+*.u2d
+
 # Folders
 /src/FVCOM_LAKE/x64/Debug/
 /src/FVCOM_LAKE/x64/Release/
